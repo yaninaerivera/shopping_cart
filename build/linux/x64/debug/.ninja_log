@@ -1,0 +1,56 @@
+# ninja log v6
+2	11285	1727897797753913721	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	aa3c66087670bf06
+2	11285	1727897797753913721	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	aa3c66087670bf06
+2	11285	1727897797753913721	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/libflutter_linux_gtk.so	aa3c66087670bf06
+2	11285	1727897797753913721	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	aa3c66087670bf06
+2	11285	1727897797753913721	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	aa3c66087670bf06
+2	11285	1727897797753913721	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	aa3c66087670bf06
+2	11285	1727897797753913721	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	aa3c66087670bf06
+2	11285	1727897797753913721	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	aa3c66087670bf06
+2	11285	1727897797753913721	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	aa3c66087670bf06
+2	11285	1727897797753913721	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	aa3c66087670bf06
+2	11285	1727897797753913721	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_view.h	aa3c66087670bf06
+2	11285	1727897797753913721	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	aa3c66087670bf06
+2	11285	1727897797753913721	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_engine.h	aa3c66087670bf06
+2	11285	1727897797753913721	flutter/_phony_	aa3c66087670bf06
+2	11285	1727897797753913721	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	aa3c66087670bf06
+12538	12572	1727897810291034354	CMakeFiles/install.util	19b3bcb3d7adebf4
+12293	12538	1727897810045031989	intermediates_do_not_run/shopping_cart	9eae324067f5fa30
+11287	12207	1727897809039022316	CMakeFiles/shopping_cart.dir/flutter/generated_plugin_registrant.cc.o	a9db0f76763f0b32
+11286	12293	1727897809038022307	CMakeFiles/shopping_cart.dir/my_application.cc.o	7e1f4f5ece6dbd6f
+2	11285	1727897797753913721	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	aa3c66087670bf06
+11286	12143	1727897809038022307	CMakeFiles/shopping_cart.dir/main.cc.o	39b54c83e0082e48
+2	11285	1727897797753913721	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	aa3c66087670bf06
+2	11285	1727897797753913721	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/build/linux/x64/debug/flutter/_phony_	aa3c66087670bf06
+2	11285	1727897797753913721	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	aa3c66087670bf06
+2	11285	1727897797753913721	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_value.h	aa3c66087670bf06
+2	11285	1727897797753913721	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	aa3c66087670bf06
+2	11285	1727897797753913721	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	aa3c66087670bf06
+2	11285	1727897797753913721	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	aa3c66087670bf06
+4	5979	1727898972409742061	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/libflutter_linux_gtk.so	aa3c66087670bf06
+4	5979	1727898972409742061	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	aa3c66087670bf06
+4	5979	1727898972409742061	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	aa3c66087670bf06
+4	5979	1727898972409742061	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	aa3c66087670bf06
+4	5979	1727898972409742061	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	aa3c66087670bf06
+4	5979	1727898972409742061	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_engine.h	aa3c66087670bf06
+4	5979	1727898972409742061	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	aa3c66087670bf06
+4	5979	1727898972409742061	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	aa3c66087670bf06
+4	5979	1727898972409742061	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	aa3c66087670bf06
+4	5979	1727898972409742061	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	aa3c66087670bf06
+4	5979	1727898972409742061	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	aa3c66087670bf06
+4	5979	1727898972409742061	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	aa3c66087670bf06
+4	5979	1727898972409742061	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	aa3c66087670bf06
+4	5979	1727898972409742061	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	aa3c66087670bf06
+4	5979	1727898972409742061	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	aa3c66087670bf06
+4	5979	1727898972409742061	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	aa3c66087670bf06
+4	5979	1727898972409742061	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	aa3c66087670bf06
+4	5979	1727898972409742061	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	aa3c66087670bf06
+4	5979	1727898972409742061	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_value.h	aa3c66087670bf06
+4	5979	1727898972409742061	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/fl_view.h	aa3c66087670bf06
+4	5979	1727898972409742061	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	aa3c66087670bf06
+4	5979	1727898972409742061	flutter/_phony_	aa3c66087670bf06
+4	5979	1727898972409742061	/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/build/linux/x64/debug/flutter/_phony_	aa3c66087670bf06
+5980	6790	1727898978384795962	CMakeFiles/shopping_cart.dir/flutter/generated_plugin_registrant.cc.o	a9db0f76763f0b32
+5980	6855	1727898978384795962	CMakeFiles/shopping_cart.dir/my_application.cc.o	7e1f4f5ece6dbd6f
+6855	7097	1727898979259803855	intermediates_do_not_run/shopping_cart	786747c155f0b211
+7097	7148	1727898979501806038	CMakeFiles/install.util	19b3bcb3d7adebf4

@@ -1,0 +1,11 @@
+/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/build/linux/x64/debug/bundle/shopping_cart
+/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/yaninita/Documentos/Bootcamp Flutter/Projects/shopping_cart/build/linux/x64/debug/bundle/data/flutter_assets/version.json

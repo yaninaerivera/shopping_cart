@@ -1,2 +1,3 @@
 # shopping_cart
- Shooping cart with Flutter 
+
+A new Flutter project.
